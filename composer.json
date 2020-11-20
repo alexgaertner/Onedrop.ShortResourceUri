@@ -1,5 +1,5 @@
 {
-    "name": "onedrop/shortresourceuri",
+    "name": "hug/shortresourceuri",
     "description": "Neos package for shortening published resource uris",
     "type": "neos-package",
     "license": "MIT",
