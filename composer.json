@@ -4,7 +4,7 @@
     "type": "neos-package",
     "license": "MIT",
     "require": {
-        "neos/neos": ">=3.0 <5.4.* || dev-master"
+        "neos/neos": ">=5.0 || dev-master"
     },
     "authors": [
         {
